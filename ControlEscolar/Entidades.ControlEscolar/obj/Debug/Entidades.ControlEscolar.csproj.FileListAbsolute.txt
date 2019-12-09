@@ -1,0 +1,12 @@
+D:\documentos\5 semestre\TALLER DE BASE DE DATOS\visual\ControlEscolar\Entidades.ControlEscolar\bin\Debug\Entidades.ControlEscolar.dll
+D:\documentos\5 semestre\TALLER DE BASE DE DATOS\visual\ControlEscolar\Entidades.ControlEscolar\bin\Debug\Entidades.ControlEscolar.pdb
+D:\documentos\5 semestre\TALLER DE BASE DE DATOS\visual\ControlEscolar\Entidades.ControlEscolar\obj\Debug\Entidades.ControlEscolar.csprojAssemblyReference.cache
+D:\documentos\5 semestre\TALLER DE BASE DE DATOS\visual\ControlEscolar\Entidades.ControlEscolar\obj\Debug\Entidades.ControlEscolar.csproj.CoreCompileInputs.cache
+D:\documentos\5 semestre\TALLER DE BASE DE DATOS\visual\ControlEscolar\Entidades.ControlEscolar\obj\Debug\Entidades.ControlEscolar.dll
+D:\documentos\5 semestre\TALLER DE BASE DE DATOS\visual\ControlEscolar\Entidades.ControlEscolar\obj\Debug\Entidades.ControlEscolar.pdb
+D:\escritorio\ControlEscolar\Entidades.ControlEscolar\bin\Debug\Entidades.ControlEscolar.dll
+D:\escritorio\ControlEscolar\Entidades.ControlEscolar\bin\Debug\Entidades.ControlEscolar.pdb
+D:\escritorio\ControlEscolar\Entidades.ControlEscolar\obj\Debug\Entidades.ControlEscolar.csprojAssemblyReference.cache
+D:\escritorio\ControlEscolar\Entidades.ControlEscolar\obj\Debug\Entidades.ControlEscolar.csproj.CoreCompileInputs.cache
+D:\escritorio\ControlEscolar\Entidades.ControlEscolar\obj\Debug\Entidades.ControlEscolar.dll
+D:\escritorio\ControlEscolar\Entidades.ControlEscolar\obj\Debug\Entidades.ControlEscolar.pdb

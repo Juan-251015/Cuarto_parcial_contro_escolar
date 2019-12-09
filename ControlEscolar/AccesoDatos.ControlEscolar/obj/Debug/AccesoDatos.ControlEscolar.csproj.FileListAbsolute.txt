@@ -1,0 +1,19 @@
+D:\documentos\5 semestre\TALLER DE BASE DE DATOS\visual\ControlEscolar\AccesoDatos.ControlEscolar\bin\Debug\AccesoDatos.ControlEscolar.dll
+D:\documentos\5 semestre\TALLER DE BASE DE DATOS\visual\ControlEscolar\AccesoDatos.ControlEscolar\bin\Debug\AccesoDatos.ControlEscolar.pdb
+D:\documentos\5 semestre\TALLER DE BASE DE DATOS\visual\ControlEscolar\AccesoDatos.ControlEscolar\bin\Debug\Entidades.ControlEscolar.dll
+D:\documentos\5 semestre\TALLER DE BASE DE DATOS\visual\ControlEscolar\AccesoDatos.ControlEscolar\bin\Debug\Entidades.ControlEscolar.pdb
+D:\documentos\5 semestre\TALLER DE BASE DE DATOS\visual\ControlEscolar\AccesoDatos.ControlEscolar\obj\Debug\AccesoDatos.ControlEscolar.csprojAssemblyReference.cache
+D:\documentos\5 semestre\TALLER DE BASE DE DATOS\visual\ControlEscolar\AccesoDatos.ControlEscolar\obj\Debug\AccesoDatos.ControlEscolar.csproj.CoreCompileInputs.cache
+D:\documentos\5 semestre\TALLER DE BASE DE DATOS\visual\ControlEscolar\AccesoDatos.ControlEscolar\obj\Debug\AccesoDatos.ControlEscolar.csproj.CopyComplete
+D:\documentos\5 semestre\TALLER DE BASE DE DATOS\visual\ControlEscolar\AccesoDatos.ControlEscolar\obj\Debug\AccesoDatos.ControlEscolar.dll
+D:\documentos\5 semestre\TALLER DE BASE DE DATOS\visual\ControlEscolar\AccesoDatos.ControlEscolar\obj\Debug\AccesoDatos.ControlEscolar.pdb
+D:\documentos\5 semestre\TALLER DE BASE DE DATOS\visual\ControlEscolar\AccesoDatos.ControlEscolar\bin\Debug\MySql.Data.dll
+D:\escritorio\ControlEscolar\AccesoDatos.ControlEscolar\bin\Debug\AccesoDatos.ControlEscolar.dll
+D:\escritorio\ControlEscolar\AccesoDatos.ControlEscolar\bin\Debug\AccesoDatos.ControlEscolar.pdb
+D:\escritorio\ControlEscolar\AccesoDatos.ControlEscolar\bin\Debug\Entidades.ControlEscolar.dll
+D:\escritorio\ControlEscolar\AccesoDatos.ControlEscolar\bin\Debug\Entidades.ControlEscolar.pdb
+D:\escritorio\ControlEscolar\AccesoDatos.ControlEscolar\obj\Debug\AccesoDatos.ControlEscolar.csprojAssemblyReference.cache
+D:\escritorio\ControlEscolar\AccesoDatos.ControlEscolar\obj\Debug\AccesoDatos.ControlEscolar.csproj.CoreCompileInputs.cache
+D:\escritorio\ControlEscolar\AccesoDatos.ControlEscolar\obj\Debug\AccesoDatos.ControlEscolar.csproj.CopyComplete
+D:\escritorio\ControlEscolar\AccesoDatos.ControlEscolar\obj\Debug\AccesoDatos.ControlEscolar.dll
+D:\escritorio\ControlEscolar\AccesoDatos.ControlEscolar\obj\Debug\AccesoDatos.ControlEscolar.pdb
